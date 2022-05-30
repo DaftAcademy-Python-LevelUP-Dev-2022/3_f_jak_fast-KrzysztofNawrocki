@@ -2,4 +2,4 @@
 
 
 class HerokuApp:
-    app_url = ""https://djakdeploymentkn.herokuapp.com/""  # Fill your heroku app url here
+    app_url = "https://fjakfast.herokuapp.com/"  # Fill your heroku app url here

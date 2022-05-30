@@ -3,5 +3,5 @@ __pycache__/
 venv/
 program.py
 runtime.txt
-requirements.txt
 Procfile
+fjakfast/
